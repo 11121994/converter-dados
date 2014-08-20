@@ -14,6 +14,7 @@ int main(int argc, char *argv[])
     int x = (int) f;
 
     cout << x << endl;
+    
     return 0;
     
 }
